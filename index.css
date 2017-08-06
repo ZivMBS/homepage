@@ -57,4 +57,7 @@ a:hover {
         margin: 0;
         width: 100%;
     }
+    #createdBy {
+        top: 96%;
+    }
 }
